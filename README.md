@@ -1,13 +1,19 @@
 
+<!-- =====================================================
+ AKHIL BHUKYA | ANIMATED TERMINAL PROFILE
+ BLACK THEME / CYAN / TEAL / VIOLET
+ Target: SDE-1 / Java Backend / Java Full Stack
+====================================================== -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:050608,50:101923,100:050608&text=AKHIL%20BHUKYA&fontSize=42&fontColor=68DDF5&animation=fadeIn&fontAlignY=45"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,40:050B12,75:071C26,100:000000&text=AKHIL%20BHUKYA&fontSize=44&fontColor=62E6FF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%2F%2F%20JAVA%20FULL%20STACK&descSize=13&descColor=36B9C9&descAlignY=58&animation=fadeIn&stroke=0D6070&strokeWidth=1"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2600&pause=900&color=68DDF5&center=true&vCenter=true&width=750&height=35&lines=SOFTWARE+DEVELOPMENT+ENGINEER;JAVA+BACKEND+%7C+FULL+STACK;SYSTEMS+ENGINEERING+%7C+API+DESIGN;BUILDING+SCALABLE+SOFTWARE" alt="Terminal typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=650&color=62E6FF&center=true&vCenter=true&width=850&height=65&lines=%3E+initializing+engineering+profile...;%3E+Java+%7C+Spring+Boot+%7C+REST+APIs;%3E+Backend+Systems+%7C+Full+Stack;%3E+Concurrency+%7C+Databases+%7C+System+Design;%3E+building+reliable+software" alt="Animated terminal introduction"/>
 
-<a href="https://linkedin.com/in/akhil-bhukya-a42422353"><img src="https://img.shields.io/badge/LINKEDIN-101820?style=flat-square&logo=linkedin&logoColor=68DDF5" /></a>
-<a href="https://portfolio-website-cyan-tau-46.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-101820?style=flat-square&logo=vercel&logoColor=68DDF5" /></a>
-<a href="https://github.com/AKHILBHUKYA"><img src="https://img.shields.io/badge/GITHUB-101820?style=flat-square&logo=github&logoColor=68DDF5" /></a>
+<a href="https://linkedin.com/in/akhil-bhukya-a42422353"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=62E6FF"/></a>
+<a href="https://portfolio-website-cyan-tau-46.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=62E6FF"/></a>
+<a href="https://github.com/AKHILBHUKYA"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=62E6FF"/></a>
 
 </div>
 
@@ -15,64 +21,31 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:101820,50:172632,100:101820&text=SYSTEM%20IDENTITY%20%2F%20DEVELOPER%20PROFILE&fontSize=15&fontColor=68DDF5"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=900&color=62E6FF&center=true&vCenter=true&width=700&height=38&lines=%5B+01+%5D+SYSTEM+IDENTITY" alt="Animated system identity heading"/>
 
 </div>
 
 ```text
-     /\_/\\       akhil@engineering
-    ( o.o )      ---------------------------------------
-     > ^ <       OS .......... Windows / Linux
-                 ROLE ........ Software Development Engineer
-                 SPECIALTY ... Java Backend / Full Stack
-                 FOCUS ....... APIs / Databases / Systems
-                 ARCH ........ REST / Microservices
-                 APPROACH .... Clean Code / Testing / Design
-
-                 ---------------------------------------
-                 LANGUAGES
-                 ---------------------------------------
-                 Java         C          C++
-                 Python       JavaScript SQL
-
-                 ---------------------------------------
-                 ENGINEERING
-                 ---------------------------------------
-                 Spring Boot  Hibernate  REST APIs
-                 React        Next.js    HTML / CSS
-                 PostgreSQL   MySQL      Redis
-                 Kafka        Docker     AWS
-                 Git          Maven      JUnit
-
-                 ---------------------------------------
-                 INTERESTS
-                 ---------------------------------------
-                 Data Structures & Algorithms
-                 Object-Oriented Programming
-                 Concurrency & Multithreading
-                 Distributed Systems
-                 Database Design & Optimization
-                 Backend Architecture
-                 System Design
+┌──────────────────────────────────────────────────────────┐
+│ akhil@engineering:~$ whoami                              │
+├──────────────────────────────────────────────────────────┤
+│ NAME          : Akhil Bhukya                             │
+│ TARGET ROLE   : Software Development Engineer            │
+│ SPECIALIZATION: Java Backend / Full Stack                │
+│ CORE          : OOP / DSA / DBMS / Operating Systems     │
+│ ARCHITECTURE  : REST APIs / Microservices                │
+│ INTERESTS     : Concurrency / Distributed Systems        │
+│ OBJECTIVE     : Reliable, maintainable software           │
+└──────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROFILE-ENGINEERING-101820?style=flat-square&labelColor=172632&color=267B91"/>
-<img src="https://img.shields.io/badge/FOCUS-JAVA-101820?style=flat-square&labelColor=172632&color=267B91"/>
-<img src="https://img.shields.io/badge/DOMAIN-BACKEND_SYSTEMS-101820?style=flat-square&labelColor=172632&color=267B91"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00D9FF,100:000000"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=36B9C9&center=true&vCenter=true&width=700&height=38&lines=%5B+02+%5D+PROGRAMMING+LANGUAGES" alt="Animated programming languages heading"/>
 
 </div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:101820,50:172632,100:101820&text=TECHNICAL%20ARSENAL&fontSize=15&fontColor=68DDF5"/>
-
-</div>
-
-### `01` / Programming Languages
 
 <div align="center">
 
@@ -80,31 +53,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/SQL-101820?style=for-the-badge&logo=postgresql&logoColor=68DDF5"/>
-
-</div>
-
-### `02` / Java Full Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,hibernate,react,nextjs,html,css&theme=dark"/>
-
-</div>
-
-### `03` / Databases and Messaging
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka&theme=dark"/>
-
-</div>
-
-### `04` / Development and Infrastructure
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,maven,gradle,docker,aws,linux,vscode,idea&theme=dark"/>
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=36B9C9"/>
 
 </div>
 
@@ -112,135 +61,154 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:101820,50:172632,100:101820&text=PROJECTS%20%2F%20ENGINEERING%20WORK&fontSize=15&fontColor=68DDF5"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=62E6FF&center=true&vCenter=true&width=700&height=38&lines=%5B+03+%5D+JAVA+%26+FULL+STACK+ENGINEERING" alt="Animated full stack heading"/>
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate,react,nextjs,html,css&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/SPRING_BOOT-000000?style=flat-square&logo=springboot&logoColor=36B9C9"/>
+<img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=fastapi&logoColor=62E6FF"/>
+<img src="https://img.shields.io/badge/MAVEN-000000?style=flat-square&logo=apachemaven&logoColor=36B9C9"/>
+<img src="https://img.shields.io/badge/JUNIT-000000?style=flat-square&logo=junit5&logoColor=62E6FF"/>
 
 </div>
 
-### `01` / NEXUS — Unified Social Workspace
+---
 
 <div align="center">
 
-<a href="https://github.com/AKHILBHUKYA/NEXUS-Social-Workspace"><img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=AKHILBHUKYA&repo=NEXUS-Social-Workspace&hide_border=true&bg_color=0D141B&title_color=68DDF5&icon_color=52B9C9&text_color=9CB5C8"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=36B9C9&center=true&vCenter=true&width=700&height=38&lines=%5B+04+%5D+DATABASES+%26+INFRASTRUCTURE" alt="Animated infrastructure heading"/>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,docker,aws&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea&theme=dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=62E6FF&center=true&vCenter=true&width=750&height=38&lines=%5B+05+%5D+FEATURED+ENGINEERING+PROJECTS" alt="Animated projects heading"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00D9FF,100:000000"/>
+
+</div>
+
+### <text>01 / NEXUS — Unified Social Workspace</text>
+
+<div align="center">
+
+<a href="https://github.com/AKHILBHUKYA/NEXUS-Social-Workspace"><img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=AKHILBHUKYA&repo=NEXUS-Social-Workspace&hide_border=true&bg_color=000000&title_color=62E6FF&icon_color=36B9C9&text_color=36B9C9"/></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=2600&pause=700&color=36B9C9&center=true&vCenter=true&width=650&height=30&lines=REAL-TIME+COMMUNICATION;EVENT-DRIVEN+BACKEND;MICROSERVICES+ARCHITECTURE" alt="Animated NEXUS project focus"/>
 
 </div>
 
 ```text
-PROJECT   : NEXUS
-CATEGORY  : Distributed Backend / Social Platform
-STACK     : Java / Spring Boot / Kafka / WebSockets
-DATABASE  : PostgreSQL / Redis
+PROJECT   : NEXUS Social Workspace
+DOMAIN    : Social Platform / Backend Engineering
+STACK     : Java / Spring Boot / Kafka
+REAL-TIME : WebSockets
+DATA      : PostgreSQL / Redis
 
-OBJECTIVE
-  Unify messaging, social profiles, media feeds
-  and activity streams in a single workspace.
-
-ENGINEERING
-  - REST API design and gateway routing
-  - Real-time communication with WebSockets
-  - Event-driven processing with Kafka
-  - Database persistence and caching
-  - Authentication and service architecture
+[01] REST APIs and gateway routing
+[02] Real-time messaging and presence
+[03] Event-driven processing
+[04] Database persistence and caching
+[05] Authentication and service architecture
 ```
 
 <div align="center">
 
-<a href="https://github.com/AKHILBHUKYA/NEXUS-Social-Workspace"><img src="https://img.shields.io/badge/SOURCE_CODE-101820?style=for-the-badge&logo=github&logoColor=68DDF5"/></a>
-<a href="https://nexusworkspace-kohl.vercel.app/"><img src="https://img.shields.io/badge/LIVE_APPLICATION-101820?style=for-the-badge&logo=vercel&logoColor=68DDF5"/></a>
+<a href="https://github.com/AKHILBHUKYA/NEXUS-Social-Workspace"><img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=62E6FF"/></a>
+<a href="https://nexusworkspace-kohl.vercel.app/"><img src="https://img.shields.io/badge/LIVE_PROJECT-000000?style=for-the-badge&logo=vercel&logoColor=36B9C9"/></a>
 
 </div>
 
 ---
 
-### `02` / Enterprise Inventory Engine
+### 02 / Enterprise Inventory Engine
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:101820,50:172632,100:101820&text=CONCURRENT%20INVENTORY%20%2F%20SEARCH%20SYSTEM&fontSize=13&fontColor=68DDF5"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2400&pause=800&color=62E6FF&center=true&vCenter=true&width=700&height=32&lines=CONCURRENT+STOCK+RESERVATION;TRANSACTIONAL+DATA+CONSISTENCY;MULTI-ATTRIBUTE+CATALOG+SEARCH" alt="Animated inventory project heading"/>
 
 </div>
 
 ```text
 PROJECT   : Enterprise Inventory Engine
-CATEGORY  : Enterprise Backend / Data Consistency
-STACK     : Java 21 / Spring Boot 3 / PostgreSQL
+DOMAIN    : Enterprise Backend / Inventory Search
+STACK     : Java 21 / Spring Boot 3
+DATABASE  : PostgreSQL
 TOOLS     : Redis / Docker / JUnit 5
 
-OBJECTIVE
-  Manage stock reservation and product catalog
-  search with consistent inventory updates.
-
-ENGINEERING
-  - Stock allocation and reservation workflows
-  - Optimistic locking for concurrent updates
-  - Java concurrency and synchronization
-  - Multi-attribute catalog search
-  - Transaction handling and automated testing
-
-SOURCE    : Add repository URL after publishing
+[01] Stock allocation and reservation workflows
+[02] Optimistic locking for concurrent updates
+[03] Java concurrency and synchronization
+[04] Multi-attribute product search
+[05] Transaction management and automated testing
 ```
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JAVA_21-101820?style=flat-square&logo=openjdk&logoColor=68DDF5"/>
-<img src="https://img.shields.io/badge/SPRING_BOOT-101820?style=flat-square&logo=springboot&logoColor=52B9C9"/>
-<img src="https://img.shields.io/badge/POSTGRESQL-101820?style=flat-square&logo=postgresql&logoColor=68DDF5"/>
-<img src="https://img.shields.io/badge/DOCKER-101820?style=flat-square&logo=docker&logoColor=52B9C9"/>
+<img src="https://img.shields.io/badge/JAVA_21-000000?style=flat-square&logo=openjdk&logoColor=62E6FF"/>
+<img src="https://img.shields.io/badge/SPRING_BOOT-000000?style=flat-square&logo=springboot&logoColor=36B9C9"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-000000?style=flat-square&logo=postgresql&logoColor=62E6FF"/>
+<img src="https://img.shields.io/badge/DOCKER-000000?style=flat-square&logo=docker&logoColor=36B9C9"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=2600&pause=800&color=36B9C9&center=true&vCenter=true&width=650&height=30&lines=CONSISTENCY+FIRST;DESIGNED+FOR+CONCURRENT+WORKLOADS;ENGINEERED+FOR+DATA+INTEGRITY" alt="Animated inventory engineering principles"/>
 
 </div>
 
+> Add your actual repository link to this project after publishing it.
+
 ---
 
-### `03` / Akhil AI Search Engine
+### 03 / Akhil AI Search Engine
 
 <div align="center">
 
-<a href="https://github.com/AKHILBHUKYA/AkhilAI"><img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=AKHILBHUKYA&repo=AkhilAI&hide_border=true&bg_color=0D141B&title_color=68DDF5&icon_color=52B9C9&text_color=9CB5C8"/></a>
+<a href="https://github.com/AKHILBHUKYA/AkhilAI"><img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=AKHILBHUKYA&repo=AkhilAI&hide_border=true&bg_color=000000&title_color=62E6FF&icon_color=36B9C9&text_color=36B9C9"/></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=2500&pause=800&color=36B9C9&center=true&vCenter=true&width=650&height=30&lines=WEB+RETRIEVAL;SEARCH+WORKFLOWS;FRONTEND+%2B+BACKEND+COMMUNICATION" alt="Animated AI search focus"/>
 
 </div>
 
 ```text
 PROJECT   : Akhil AI Search
-CATEGORY  : AI Application / Web Search
-STACK     : Spring Boot / Next.js / REST APIs
+DOMAIN    : AI Applications / Web Search
+BACKEND   : Spring Boot / REST APIs
+FRONTEND  : Next.js
 SEARCH    : Tavily
 
-OBJECTIVE
-  Retrieve current web information and present
-  useful search results through a web interface.
-
-ENGINEERING
-  - Search request and response workflows
-  - Backend and frontend API communication
-  - Search mode selection
-  - Error handling and response processing
+[01] Web search request workflows
+[02] Search mode selection
+[03] Frontend and backend communication
+[04] API response and error handling
 ```
 
 <div align="center">
 
-<a href="https://github.com/AKHILBHUKYA/AkhilAI"><img src="https://img.shields.io/badge/SOURCE_CODE-101820?style=for-the-badge&logo=github&logoColor=68DDF5"/></a>
-<a href="https://akhil-aifront.vercel.app/"><img src="https://img.shields.io/badge/OPEN_APPLICATION-101820?style=for-the-badge&logo=vercel&logoColor=68DDF5"/></a>
+<a href="https://github.com/AKHILBHUKYA/AkhilAI"><img src="https://img.shields.io/badge/SOURCE_CODE-000000?style=for-the-badge&logo=github&logoColor=62E6FF"/></a>
+<a href="https://akhil-aifront.vercel.app/"><img src="https://img.shields.io/badge/OPEN_APPLICATION-000000?style=for-the-badge&logo=vercel&logoColor=36B9C9"/></a>
 
 </div>
 
 ---
 
-### `04` / C Compiler From Scratch
-
-```text
-PROJECT   : C Compiler From Scratch
-CATEGORY  : Computer Science / Compiler Construction
-
-FOCUS
-  Understanding source-code processing,
-  language fundamentals and compiler architecture.
-
-SOURCE
-  https://github.com/AKHILBHUKYA/C-Compiler-from-Scratch
-```
+### 04 / C Compiler From Scratch
 
 <div align="center">
 
-<a href="https://github.com/AKHILBHUKYA/C-Compiler-from-Scratch"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-101820?style=for-the-badge&logo=github&logoColor=68DDF5"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2500&pause=800&color=36B9C9&center=true&vCenter=true&width=650&height=32&lines=COMPILER+CONSTRUCTION;SOURCE+CODE+PROCESSING;COMPUTER+SCIENCE+FUNDAMENTALS" alt="Animated compiler project heading"/>
+
+<a href="https://github.com/AKHILBHUKYA/C-Compiler-from-Scratch"><img src="https://img.shields.io/badge/EXPLORE_SOURCE-000000?style=for-the-badge&logo=github&logoColor=62E6FF"/></a>
 
 </div>
 
@@ -248,73 +216,94 @@ SOURCE
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:101820,50:172632,100:101820&text=CONTRIBUTION%20TELEMETRY&fontSize=15&fontColor=68DDF5"/>
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=AKHILBHUKYA&bg_color=0D141B&color=68DDF5&line=267B91&point=52B9C9&area=true&area_color=102B35&hide_border=true&custom_title=GITHUB%20ACTIVITY"/>
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AKHILBHUKYA&show_icons=true&hide_border=true&bg_color=0D141B&title_color=68DDF5&icon_color=52B9C9&text_color=9CB5C8&rank_icon=github"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHILBHUKYA&layout=compact&hide_border=true&bg_color=0D141B&title_color=68DDF5&text_color=9CB5C8&langs_count=6"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:101820,50:172632,100:101820&text=PROFESSIONAL%20EXPERIENCE&fontSize=15&fontColor=68DDF5"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=62E6FF&center=true&vCenter=true&width=700&height=38&lines=%5B+06+%5D+PROFESSIONAL+EXPERIENCE" alt="Animated experience heading"/>
 
 </div>
 
 ```text
-01 / SOFTWARE ENGINEER INTERN
-    Vaishnavi Technologies
+$ cat experience.log
 
-    Java / Spring Boot / REST APIs / SQL / Git
+[01] SOFTWARE ENGINEER INTERN
+     Vaishnavi Technologies
 
-    - Backend request processing and validation
-    - REST endpoint development and debugging
-    - Database CRUD workflows and SQL queries
-    - Code reviews and collaborative Git workflows
+     Java / Spring Boot / REST APIs / SQL / Git
 
-02 / OPEN SOURCE CONTRIBUTOR
-    Diano AI
+     - Backend request processing and validation
+     - API endpoint development and debugging
+     - Database CRUD workflows and SQL queries
+     - Git collaboration and code reviews
 
-    Java / Backend APIs / Testing / GitHub
+[02] OPEN SOURCE CONTRIBUTOR
+     Diano AI
 
-    - Backend response handling and validation
-    - Test improvements and pull request workflows
-    - Code review and continuous integration
+     Backend APIs / Testing / GitHub
+
+     - API response handling and validation
+     - Test improvements and pull requests
+     - Code review and continuous integration
 ```
 
 ---
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:101820,50:172632,100:101820&text=ENGINEERING%20PRINCIPLES&fontSize=15&fontColor=68DDF5"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=36B9C9&center=true&vCenter=true&width=700&height=38&lines=%5B+07+%5D+COMPUTER+SCIENCE+FOUNDATIONS" alt="Animated computer science heading"/>
 
 </div>
 
 ```text
-[01] Clean Code .......... Maintainable and readable design
-[02] API Engineering ..... Consistent interfaces and validation
-[03] Data Integrity ...... Transactions and concurrency
-[04] Performance ......... Efficient algorithms and query design
-[05] Testing ............. Automated verification and debugging
-[06] Collaboration ....... Git, pull requests and code review
+[01] Data Structures and Algorithms
+[02] Object-Oriented Programming
+[03] Database Management Systems
+[04] Operating Systems
+[05] Computer Networks
+[06] Concurrency and Multithreading
+[07] System Design Fundamentals
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=1000&color=68DDF5&center=true&vCenter=true&width=700&height=35&lines=DESIGN+WITH+CLARITY;ENGINEER+WITH+PRECISION;BUILD+RELIABLE+SYSTEMS" alt="Engineering principles animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=62E6FF&center=true&vCenter=true&width=700&height=38&lines=%5B+08+%5D+LIVE+GITHUB+ACTIVITY" alt="Animated GitHub activity heading"/>
 
-<a href="https://linkedin.com/in/akhil-bhukya-a42422353"><img src="https://img.shields.io/badge/CONNECT-101820?style=for-the-badge&logo=linkedin&logoColor=68DDF5"/></a>
-<a href="https://portfolio-website-cyan-tau-46.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-101820?style=for-the-badge&logo=vercel&logoColor=52B9C9"/></a>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AKHILBHUKYA&bg_color=000000&color=36B9C9&line=62E6FF&point=8B5CF6&area=true&area_color=071C26&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:172632,50:0B1219,100:050608"/>
+<br/><br/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AKHILBHUKYA&show_icons=true&hide_border=true&bg_color=000000&title_color=62E6FF&icon_color=36B9C9&text_color=36B9C9&rank_icon=github"/><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKHILBHUKYA&layout=compact&hide_border=true&bg_color=000000&title_color=62E6FF&text_color=36B9C9&langs_count=6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=36B9C9&center=true&vCenter=true&width=700&height=38&lines=%5B+09+%5D+ENGINEERING+PRINCIPLES" alt="Animated engineering principles heading"/>
+
+</div>
+
+```text
+[01] Clean Code          -> Maintainability
+[02] API Design          -> Consistency
+[03] Data Integrity      -> Reliable transactions
+[04] Performance         -> Efficient algorithms
+[05] Testing             -> Verification and debugging
+[06] Collaboration       -> Git and code review
+```
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=900&color=62E6FF&center=true&vCenter=true&width=700&height=38&lines=%5B+10+%5D+CONNECT+%2F%2F+COLLABORATE" alt="Animated contact heading"/>
+
+<a href="https://linkedin.com/in/akhil-bhukya-a42422353"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=62E6FF"/></a>
+<a href="https://portfolio-website-cyan-tau-46.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=36B9C9"/></a>
+<a href="https://github.com/AKHILBHUKYA"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=8B5CF6"/></a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2500&pause=900&color=36B9C9&center=true&vCenter=true&width=650&height=35&lines=DESIGN+WITH+CLARITY;ENGINEER+WITH+PRECISION;BUILD+RELIABLE+SYSTEMS" alt="Animated closing message"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:071C26,50:050B12,100:000000&animation=fadeIn"/>
 
 </div>
