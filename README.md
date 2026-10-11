@@ -24,7 +24,7 @@
 
 ---
 
-### 🟢 **Engine Overview & Capabilities**
+###  **Engine Overview & Capabilities**
 
 ```text
 ┌─────────────────────────┬─────────────────────────────────────────────────┐
