@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ AKHIL BHUKYA
+#   AKHIL BHUKYA
 ### **Software Development Engineer (SDE-1) | Backend & Systems Engineer**
 
 <p align="center">
